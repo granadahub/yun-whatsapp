@@ -1,0 +1,18 @@
+# Sessão do WhatsApp
+auth_info/
+
+# Dependências
+node_modules/
+
+# Credenciais
+.env
+.env.*
+
+# Backups
+index_backup*.js
+
+# Arquivos de teste
+*.mp4
+
+# Logs
+*.log
